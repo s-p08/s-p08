@@ -1,33 +1,50 @@
-💫 Hi There ✌️ Its Me Shivam:
+
 🧑‍💻 About Me
 
 Hi! I'm Shivam, a passionate Web Developer who loves building clean, modern, and user-friendly websites.
+
 I enjoy turning ideas into reality using HTML, CSS, JavaScript.
 
 📘 Currently learning Gen AI & Full-Stack Development
+
 ⚛️ Exploring React, Django REST Framework, and API-based projects
+
 🎨 Love creating unique and helpful real-world projects
+
 ✨ Focused on UI/UX and beautiful website designs
 
+
 🚀 My Goals :
+
 🏆 Become a strong full-stack web developer
+
 💡 Build real-time projects that help people
+
 📚 Learn advanced React, Django REST, MySQL
 
 🛠️ Tech Stack :
+
 🎨 Frontend: HTML, CSS, JavaScript ,React .Js
+
 🐍 Backend: Express,Node, 
+
 🗄️ Database: MySQL
+
 🧰 Tools: VS Code, Git, GitHub
 
 🌱 What I'm Learning Right Now
-📱 Media Queries, CSS Grid, advanced CSS animations
+
+📱Prompt Enigneering 
+
 ⚙️ JavaScript fundamentals
+
 ⚛️ React basics
 
 
 🎯 Fun Fact
+
 I love building long, detailed projects with clean UI , from portfolios to rental websites to hotel management systems 😄.
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/shivam.prakash._?igsh=bDR0a3RoNzBxYW9m) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/shivam-prakash-772727306) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivamprakash9053@gmail.com) 
 
